@@ -6,7 +6,7 @@ A 2D Souls-like action game with a pixel-art dark fantasy look. A single HTML fi
 
 ## Run
 
-Open `index.html` in a browser, or enable GitHub Pages (Settings → Pages → Deploy from a branch → `main` / root). On Android, play in landscape orientation.
+Open `index.html` in a browser, or use this link https://taaakt.github.io/Ashen-lands/)
 
 ## Features
 
@@ -41,4 +41,4 @@ Thrust beats overhead, slash beats thrust, overhead beats slash. Identical strik
 
 ## License
 
-MIT License. See the [LICENSE](LICENSE) file.
+MIT License. See the (LICENSE) file.
